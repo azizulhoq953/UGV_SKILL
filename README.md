@@ -25,10 +25,10 @@ Advanced_Networkin Advanced-Python
 
 <img src="img/2022-11-18 (8).png">
 
-<img src="img/2022-11-18 (9).png">
+<!-- <img src="img/2022-11-18 (9).png">
 
 
-<img src="img/2022-11-18 (10).png">
+<img src="img/2022-11-18 (10).png"> -->
 
 
 
