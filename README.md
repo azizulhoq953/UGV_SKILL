@@ -50,8 +50,10 @@ Advanced_Networkin Advanced-Python
 ### 10. IP >> select Firewall >> NAT
 <img src="img/2022-11-18 (14).png">
 
-### 10. select Out Interface WAN >> Goto Action Option Then Select Masquerade
+### 11. select Out Interface WAN 
 <img src="img/2022-11-18 (15).png">
+
+### 12. Goto Action Option Then Select Masquerade
 <img src="img/2022-11-18 (16).png">
 
 <img src="img/2022-11-18 (17).png">
