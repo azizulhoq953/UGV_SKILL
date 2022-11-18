@@ -2,4 +2,4 @@
 Advanced_Networkin Advanced-Python
 
 
-![image](https://2022-11-18 (1).png)
+![image](/2022-11-18 (1).png)
