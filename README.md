@@ -22,7 +22,7 @@ Advanced_Networkin Advanced-Python
 <img src="img/2022-11-18 (2).png">
 
 
-### 5. click Plus Icon   Select Interface WAN Then Apply And Ok
+### 5. click Plus Icon  Select Interface WAN Then Apply And Ok
 <img src="img/2022-11-18 (8).png">
 
 
@@ -34,7 +34,7 @@ Advanced_Networkin Advanced-Python
 <img src="img/2022-11-18 (10).png"> -->
 
 
-### 
+### IP >> DHCP Server 
 <img src="img/2022-11-18 (11).png">
 
 <img src="img/2022-11-18 (12).png">
