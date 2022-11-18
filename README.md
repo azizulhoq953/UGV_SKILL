@@ -2,4 +2,5 @@
 Advanced_Networkin Advanced-Python
 
 
-![alt text](screenshots/2022-11-18 (1).png "Description goes here")
+<!-- ![alt text] -->
+(img/2022-11-18 (1).png "Description goes here")
