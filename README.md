@@ -41,3 +41,9 @@ Advanced_Networkin Advanced-Python
 <img src="img/2022-11-18 (14).png">
 
 <img src="img/2022-11-18 (15).png">
+<img src="img/2022-11-18 (16).png">
+
+<img src="img/2022-11-18 (17).png">
+
+<img src="img/2022-11-18 (18).png">
+
