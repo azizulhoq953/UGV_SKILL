@@ -25,7 +25,7 @@ Advanced_Networkin Advanced-Python
 ### 5. click Plus Icon  Select Interface WAN Then Apply And Ok
 <img src="img/2022-11-18 (8).png">
 
-
+### 6. click IP >> DHCP Server
 <img src="img/2022-11-18 (7).png">
 
 <!-- <img src="img/2022-11-18 (9).png">
@@ -34,13 +34,19 @@ Advanced_Networkin Advanced-Python
 <img src="img/2022-11-18 (10).png"> -->
 
 
-### IP >> DHCP Server 
+### 7. Click DHCP Setup Then Next Next And OK
 <img src="img/2022-11-18 (11).png">
+
+### 7. Then Setup SuccessFully
 
 <img src="img/2022-11-18 (12).png">
 
+### FireWall Rull
+### 8. IP >> select Firewall >> NAT
+
 <img src="img/2022-11-18 (13).png">
 
+### 10. select Out Interface WAN >> Goto Action Option Then Select Masquerade
 <img src="img/2022-11-18 (14).png">
 
 <img src="img/2022-11-18 (15).png">
