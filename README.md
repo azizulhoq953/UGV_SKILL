@@ -2,4 +2,4 @@
 Advanced_Networkin Advanced-Python
 
 
-![image](/2022-11-18 (1).png)
+![alt text](screenshots/2022-11-18 (1).png "Description goes here")
