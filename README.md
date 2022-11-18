@@ -56,7 +56,4 @@ Advanced_Networkin Advanced-Python
 ### 12. Goto Action Option Then Select Masquerade
 <img src="img/2022-11-18 (16).png">
 
-<img src="img/2022-11-18 (17).png">
-
-<img src="img/2022-11-18 (18).png">
 
