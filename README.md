@@ -7,17 +7,17 @@ Advanced_Networkin Advanced-Python
 ### 1. Selected Interface >> click YellowBox then Comment LAN And WAN
 <img src="img/2022-11-18 (1).png">
 
-### Click Ip Then Selected >> Addresses click Plus Icon
+### 2. Click Ip Then Selected >> Addresses click Plus Icon
 
 <img src="img/2022-11-18 (3).png">
 
-### Insert Private IP with Subnet Mask Like 192.168.0.10/24
+### 3. Insert Private IP with Subnet Mask Like 192.168.0.10/24 then Apply >> Ok
 <img src="img/2022-11-18 (5).png">
 
 
 <!-- <img src="img/2022-11-18 (4).png"> -->
 
-
+### 4. Ip >> DHCP Client click Plus Icon Select Interface WAN Then Apply And Ok
 
 <img src="img/2022-11-18 (2).png">
 
