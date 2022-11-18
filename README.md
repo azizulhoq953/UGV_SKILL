@@ -1,8 +1,10 @@
 # UGV_SKILL
 Advanced_Networkin Advanced-Python
 
- ## 1. Microtik Basic Configuration (LAN DHCP, WAN [DHCP Client/ Static IP / PPPOE Client]) 
+ ## Microtik Basic Configuration (LAN DHCP, WAN [DHCP Client/ Static IP / PPPOE Client]) 
 
+
+### Selected Interface >> click YellowBox then Comment
 <img src="img/2022-11-18 (1).png">
 
 ## 2nd ss
