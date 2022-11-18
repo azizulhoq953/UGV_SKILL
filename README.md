@@ -17,16 +17,16 @@ Advanced_Networkin Advanced-Python
 
 <!-- <img src="img/2022-11-18 (4).png"> -->
 
-### 4. Ip >> DHCP Client click Plus Icon Select Interface WAN Then Apply And Ok
+### 4. Ip >> DHCP Client 
 
 <img src="img/2022-11-18 (2).png">
 
 
 
-<img src="img/2022-11-18 (7).png">
-
-
 <img src="img/2022-11-18 (8).png">
+
+### 5. click Plus Icon 
+<img src="img/2022-11-18 (7).png">
 
 <!-- <img src="img/2022-11-18 (9).png">
 
@@ -34,7 +34,7 @@ Advanced_Networkin Advanced-Python
 <img src="img/2022-11-18 (10).png"> -->
 
 
-
+###  Select Interface WAN Then Apply And Ok
 <img src="img/2022-11-18 (11).png">
 
 <img src="img/2022-11-18 (12).png">
