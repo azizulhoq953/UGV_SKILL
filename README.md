@@ -4,7 +4,7 @@ Advanced_Networkin Advanced-Python
  ## Microtik Basic Configuration (LAN DHCP, WAN [DHCP Client/ Static IP / PPPOE Client]) 
 
 
-### Selected Interface >> click YellowBox then Comment
+### 1. Selected Interface >> click YellowBox then Comment LAN And WAN
 <img src="img/2022-11-18 (1).png">
 
 ## 2nd ss
