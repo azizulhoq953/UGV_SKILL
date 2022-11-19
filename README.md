@@ -58,15 +58,16 @@ Advanced_Networkin Advanced-Python
 
 <img src="img/day1.png">
 
-#### 2. IP > Addreses click "+" Icon Then Assign Network Ip Address With Subnet Mask That Provide From ISP Select Interface (WAN) Then Click Ok
+#### 2. IP > Addreses click "+" Icon Then Assign Network Ip Address With Subnet Mask That
+#### Provide From ISP Select Interface (WAN) Then Click Ok
 
 <img src="img/day2.png">
 
-#### 3. Ip > Route Set DST. Adreses 0.0.0.0./0 Set The GateWay Provide From ISP It's Default   8.8.8.8 
+#### 3. Ip > Route 
 
 <img src="img/day3.png">
 
-
+#### 4. Set DST. Adreses 0.0.0.0./0 Set The GateWay Provide From ISP It's Default   8.8.8.8 
 <img src="img/day4.png">
 
 
