@@ -7,11 +7,13 @@ Advanced_Networkin Advanced-Python
 ### 1. Selected Interface >> click YellowBox then Comment LAN And WAN
 <img src="img/2022-11-18 (1).png">
 
-### 2. Click Ip Then Selected >> Addresses click Plus Icon
+### 2. Click Ip Then Selected >> Addresses click Plus Icon Insert Private IP with Subnet Mask Like
+`` 192.168.0.10/24 `` 
+### then Apply >> Ok
 
-<img src="img/2022-11-18 (3).png">
+<img src="img/2022-11-18 (6).png">
 
-### 3. Insert Private IP with Subnet Mask Like 192.168.0.10/24 then Apply >> Ok
+### 3. 
 <img src="img/2022-11-18 (5).png">
 
 
