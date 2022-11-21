@@ -93,10 +93,11 @@ Advanced_Networkin Advanced-Python
 #### 1. Interfaces > Click "+" >PPPoE Client > Name The PPPoE >go to Dial Out > Now set User And Password > Make Sure That You Unmark "PaP" > Apply and Ok
 
 <img src="img/day3.4.png">
+<img src="img/day3.5.png">
+
 
 #### 2.IP >Addreses > "+" > Assign Private Ip With Subnet Mask > Interface (LAN) > Apply Then Ok
 
-<img src="img/day3.5.png">
 
 #### 3. IP > DHCp Server > DHCP Setup > LAN Interface > Noew Click Next One by one
 
@@ -112,16 +113,18 @@ Advanced_Networkin Advanced-Python
 ##### 2. Go PPP > Profiles > Click "+" General Tab Set The Package Name > Assign Local Address That we reserve In Step 1 > Remote Address Select The Pool Tha You Want To configure > Set DNS Same The Local Ip > Set Alternative DNS > Go Limits Tab > Define Bandwidth Rate > Apply Then Ok
 
 
-<img src="img/day3.7.png">
+<img src="img/day3.8.png">
+
+<img src="img/day3.7.7.png">
 
 #### 3. Preview Same Tab Goto Secraets  > Click "+" Set New User Name & Password > Select Service To PPPOe  > Select The Package > Apply > Ok
 
-<img src="img/day3.8.png">
+<img src="img/day3.9.png">
 
 #### 4. Preivious Tab goto PPPOE Server > Click "+" Assign The Service Name > Select The Interfaces (LAN) > Mark  "On Session Per Host" > Unmark "pap" > Apply Then Ok
 
 
-<img src="img/day3.9.png">
+<img src="img2022-11-21 (12).png">
 
 
 #### 5. IP > DNS > Set Server That You Get From IIG > Set Alternative DNS > Apply Then OK
