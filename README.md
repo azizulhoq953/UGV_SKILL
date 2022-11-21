@@ -124,7 +124,7 @@ Advanced_Networkin Advanced-Python
 #### 4. Preivious Tab goto PPPOE Server > Click "+" Assign The Service Name > Select The Interfaces (LAN) > Mark  "On Session Per Host" > Unmark "pap" > Apply Then Ok
 
 
-<img src="img2022-11-21 (12).png">
+<img src="img/2022-11-21 (12).png">
 
 
 #### 5. IP > DNS > Set Server That You Get From IIG > Set Alternative DNS > Apply Then OK
