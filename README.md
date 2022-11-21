@@ -84,7 +84,24 @@ Advanced_Networkin Advanced-Python
 #### 4. IP > DHCP Server => DHCP Setup => Select (LAN) Interface Now Click Next one by one
 <img src="img/day3.3.png">
 
-#### IP > Firewall > NAT > Click "+" > Set 'Out Interface' As WAN > Goto Action Tab > Change Action to "masquerade" => Apply Then OK
+#### 5. IP > Firewall > NAT > Click "+" > Set 'Out Interface' As WAN > Goto Action Tab > Change Action to "masquerade" => Apply Then OK
+
+
+## 4. Configure PPPOE Client on WAN interface, and implement local network (Using DHCP or PPPOE)
+
+
+#### 1. Interfaces > Click "+" >PPPoE Client > Name The PPPoE >go to Dial Out > Now set User And Password > Make Sure That You Unmark "PaP" > Apply and Ok
+
+<img src="img/day3.4.png">
+
+#### 2.IP >Addreses > "+" > Assign Private Ip With Subnet Mask > Interface (LAN) > Apply Then Ok
+
+<img src="img/day3.5.png">
+
+#### 3. IP > DHCp Server > DHCP Setup > LAN Interface > Noew Click Next One by one
+
+#### 4. IP > Firewal > NAT >Click "+" > Out Interface > As PPPOe Client Name > Action Tab >Change Action "Masquerade" > Apply Then Ok
+
 
 
 
