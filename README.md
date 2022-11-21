@@ -70,5 +70,21 @@ Advanced_Networkin Advanced-Python
 #### 4. Set DST. Adreses 0.0.0.0./0 Set The GateWay Provide From ISP It's Default   8.8.8.8 
 <img src="img/day4.png">
 
+## 3. Configure Microtik router as a Gateway where WAN haveing DHCP protocol, and configure lan network. 
+
+#### 1. Go to Interface And Comment
+#### 2. Go to IP >> Address Click On "+" Icon Then Write Private Ip With Subnet Mask Select the Interface (LAN) then OK
+
+<img src="img/day3.1.png">
+
+#### 3.Ip >> DHCP Client => click "+" and Select Interface (WAN) >> Apply And OK
+<img src="img/day3.2.png">
+
+
+#### 4. IP > DHCP Server => DHCP Setup => Select (LAN) Interface Now Click Next one by one
+<img src="img/day3.3.png">
+
+#### IP > Firewall > NAT > Click "+" > Set 'Out Interface' As WAN > Goto Action Tab > Change Action to "masquerade" => Apply Then OK
+
 
 
