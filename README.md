@@ -103,5 +103,30 @@ Advanced_Networkin Advanced-Python
 #### 4. IP > Firewal > NAT >Click "+" > Out Interface > As PPPOe Client Name > Action Tab >Change Action "Masquerade" > Apply Then Ok
 
 
+## 5. Design ISP for (100 Mb Bandwidth) and Create 4 packages for customer
+
+#### 1. IP > Pool > click "+" > Pool Name > Assign Pool IP Range In Address Bar > Apply Then Ok
+
+<img src="img/day3.6.png">
+
+##### 2. Go PPP > Profiles > Click "+" General Tab Set The Package Name > Assign Local Address That we reserve In Step 1 > Remote Address Select The Pool Tha You Want To configure > Set DNS Same The Local Ip > Set Alternative DNS > Go Limits Tab > Define Bandwidth Rate > Apply Then Ok
+
+
+<img src="img/day3.7.png">
+
+#### 3. Preview Same Tab Goto Secraets  > Click "+" Set New User Name & Password > Select Service To PPPOe  > Select The Package > Apply > Ok
+
+<img src="img/day3.8.png">
+
+#### 4. Preivious Tab goto PPPOE Server > Click "+" Assign The Service Name > Select The Interfaces (LAN) > Mark  "On Session Per Host" > Unmark "pap" > Apply Then Ok
+
+
+<img src="img/day3.9.png">
+
+
+#### 5. IP > DNS > Set Server That You Get From IIG > Set Alternative DNS > Apply Then OK
+
+#### 6. Repeat Again From Step 1 for Another 3 Package
+
 
 
