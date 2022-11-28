@@ -102,3 +102,8 @@ print(students2.issuperset(students1))
 #9)clear student1
 students1.clear()
 print(students1)
+
+
+# 10)print all the combined items of student1 and student2, with all common values of them (without making any permanent change)
+students1.intersection_update(students2)
+print(students1)
